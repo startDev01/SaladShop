@@ -17,7 +17,7 @@ SaladDaiso 프로젝트 Github 주소 : https://github.com/startDev01/Salad
 <img width="1748" height="852" alt="Image" src="https://github.com/user-attachments/assets/ff5ab5f6-c338-4462-9ebd-c743b66eddb6" />
 <br/> <br/>
 
-#
+# 실시간 장바구니 추가 및 수정
 <img width="1748" height="854" alt="Image" src="https://github.com/user-attachments/assets/4ab0182c-5f3e-42ba-b627-4cc10cbd7752" />
 <br/><br/>
 
