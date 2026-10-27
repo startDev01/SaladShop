@@ -21,7 +21,7 @@ SaladDaiso 프로젝트 Github 주소 : https://github.com/startDev01/Salad
 <img width="1748" height="854" alt="Image" src="https://github.com/user-attachments/assets/4ab0182c-5f3e-42ba-b627-4cc10cbd7752" />
 <br/><br/>
 
-#
+# 주문내역 확인
 <img width="1748" height="852" alt="Image" src="https://github.com/user-attachments/assets/70508a9e-65b0-4f9d-9c27-5c4511e8cd9d" />
 
 
