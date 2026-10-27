@@ -15,7 +15,7 @@ SaladDaiso 프로젝트 Github 주소 : https://github.com/startDev01/Salad
 
 # 게시글 및 댓글 작성
 비동기 Ajax 방식을 활용하여 새로고침 없이 실시간으로 댓글 추가, 조회, 수정, 삭제
-<br/>
+<br/> <br/>
 <img width="1748" height="852" alt="Image" src="https://github.com/user-attachments/assets/ff5ab5f6-c338-4462-9ebd-c743b66eddb6" />
 <br/> <br/>
 
